@@ -1,0 +1,15 @@
+{
+  "name": "express-learn",
+  "version": "1.0.0",
+  "description": "Learn Express step by step",
+  "scripts": {
+    "step1": "node 01-hello.js",
+    "step2": "node 02-route-types.js",
+    "step3": "node 03-middleware.js",
+    "step4": "node 04-router-modular.js",
+    "step5": "node 05-crud-app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
